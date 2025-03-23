@@ -1,11 +1,11 @@
 #include <stdio.h>
 
-#define a 10
-#define b 20
+#define A 10
+#define B 20
 
 int main()
 {
-    int c = a * b;
+    int c = A * B;
     printf("%d\n",c);
     return 0;
 }

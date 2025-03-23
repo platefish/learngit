@@ -2,8 +2,8 @@
 
 int main()
 {
-    const int a = 10;
-    const int b = 20;
-    printf("%d", a*b);
+    const int A = 10;
+    const int B = 20;
+    printf("%d", A*B);
     return 0;
 }
